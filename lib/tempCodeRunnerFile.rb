@@ -1,0 +1,1 @@
+Hash[arr2.zip(arr1)]
